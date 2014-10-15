@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Midterm.Review</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text_num_tickets">Number of Tickets</string>
+    <string name="text_total">Total</string>
+    <string name="text_quantity_total">$9.99</string>
+    <string name="text_proceed_checkout">Proceed to Checkout</string>
+    <string name="text_order">Order</string>
+    <string name="text_purchase">You are purchasing</string>
+    <string name="text_confirm">Confirm</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="text_tickets">Tickets</string>
+    <string name="text_successful_purchase">Purchase completed successfully</string>
+    
+
+    <string-array name="num_tickets_options">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string name="title_activity_confirm">ConfirmActivity</string>
+    <string name="action_settings">Settings</string>
+    
+</resources>
